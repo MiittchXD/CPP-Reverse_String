@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\mitch\documents\visual studio 2015\projects\reverse_string\reverse_string\source.cpp(14): warning C4018: '<': signed/unsigned mismatch
+c:\users\mitch\documents\visual studio 2015\projects\reverse_string\reverse_string\source.cpp(22): warning C4018: '<': signed/unsigned mismatch
+  Reverse_String.vcxproj -> c:\users\mitch\documents\visual studio 2015\Projects\Reverse_String\Debug\Reverse_String.exe
+  Reverse_String.vcxproj -> c:\users\mitch\documents\visual studio 2015\Projects\Reverse_String\Debug\Reverse_String.pdb (Full PDB)
